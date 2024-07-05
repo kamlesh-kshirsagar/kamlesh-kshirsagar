@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kamlesh-kshirsagar
 - 👀 I’m interested in java fullstack and web development
 - 🌱 I’m currently learning masters in computer science
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can contact me @kamlesh.b.kshirsagar
 - 😄 Pronouns: Kamlesh
   
