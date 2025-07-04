@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FEC601&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kamlesh+Kshirsagar!;Full+Stack+Web+Developer;Node.js+%7C+Python+%7C+Django+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FEC601&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kamlesh+Kshirsagar!;Full+Stack+Web+Developer;Node.js+%7C+Python+%7C+Django+%7C+Express.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
