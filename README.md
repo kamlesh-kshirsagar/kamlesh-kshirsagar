@@ -23,7 +23,7 @@
 
 ## ✨ About Me
 
-- 🎓 **Fresher Full Stack Developer** passionate about modern web technologies
+- 🎓 **Fresher Backend Developer** passionate about modern web technologies
 - 💡 Interested in building scalable, user-friendly products
 - 💳 Integrated payment gateways (Razorpay) in previous projects
 - 🚀 Love deploying apps on platforms like **Netlify**, **Vercel**, and **Heroku**
